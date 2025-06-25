@@ -49,9 +49,3 @@ Terdiri dari dua bagian utama:
   Silakan unduh secara manual melalui link Kaggle yang telah disediakan.
 
 ---
-
-## 👨‍💻 Author
-
-**Zaki Marsyandi**  
-Semester 6 – Teknik Elektro  
-Mata Kuliah: Kecerdasan Buatan
